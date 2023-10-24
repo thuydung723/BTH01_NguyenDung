@@ -15,4 +15,5 @@ Hệ thống quản lý cần đạt được những yêu cầu sau:
   +Quy trình hoạt động của một cửa hàng kinh doanh thông thường
   +Các trang web quản lý cửa hàng thu hút nhiều người tiêu dùng
 --Sửa dữ liệu trên nhánh Beta
+--Sửa dữ liệu lần 3 trên nhánh master
 
