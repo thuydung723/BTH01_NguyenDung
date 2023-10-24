@@ -1,0 +1,17 @@
+1.2.2	Mục tiêu cụ thể
+Hệ thống quản lý cần đạt được những yêu cầu sau:
+   -Quản lý thông tin : sản phẩm,nhân viên,khách hàng,nhà cung cấp,kho hàng.
+   -Cập nhật thông tin : sản phẩm,nhân viên,khách hàng,nhà cung cấp,kho hàng.
+   -Hệ thống quản lý được hóa đơn nhập,bán.
+   -Hệ thống thống kê được sản phẩm bán chạy,sản phẩm tồn kho.
+   -Hệ thống thống kê-báo cáo được doanh thu của cửa hàng.
+   -Quản lý tài khoản : nhân viên,quản lý,khách hàng.
+   -Kiểm thử hệ thống và đóng gói.
+1.3	Giới hạn và phạm vi của đề tài
+1.3.1	Đối tượng nghiên cứu
+-Đối tượng nghiên cứu :Phần mềm quản lý cửa hàng HuynDai Hưng Yên
+-Khách thể nghiên cứu:
+  +Những người kinh doanh có nhu cầu sử dụng phần mềm quản lý
+  +Quy trình hoạt động của một cửa hàng kinh doanh thông thường
+  +Các trang web quản lý cửa hàng thu hút nhiều người tiêu dùng
+
