@@ -14,4 +14,5 @@ Hệ thống quản lý cần đạt được những yêu cầu sau:
   +Những người kinh doanh có nhu cầu sử dụng phần mềm quản lý
   +Quy trình hoạt động của một cửa hàng kinh doanh thông thường
   +Các trang web quản lý cửa hàng thu hút nhiều người tiêu dùng
+--Sửa dữ liệu trên nhánh Beta
 
